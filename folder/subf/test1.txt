@@ -4,3 +4,4 @@ new line from Do,  1. Feb 2018 11:44:14
 local change Do,  1. Feb 2018 14:34:21
 new line from remote Do, 1. Feb 2018 14:32:00
 new line from Do,  1. Feb 2018 11:44:14 (locally changed)
+added to check remote command Do,  1. Feb 2018 14:53:36
